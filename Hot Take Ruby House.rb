@@ -6,7 +6,7 @@ puts "  |        |  /hey!\ " ;
 puts "  |        | / You! \ ";
 puts "  |        |/ Don't  \ ";
 puts "  |        /be a sad  \ ";
-puts "  |       /code monkey \ ";
+puts "  |       /code zombie \ ";
 puts "  |      / if you use   \ " ;
 puts "  |     / AI to generate \ ";
 puts "  |    /  all your code   \ ";
@@ -32,4 +32,5 @@ end
 
 #Basic hello world output
 # puts is a command that is able to breaks and new lines unlike the command print
+
 #Command print has outputs that is continuous 
